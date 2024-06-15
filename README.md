@@ -4,3 +4,6 @@
 
 This mod is an implementation of:
 https://github.com/originalnicodr/CinematicUnityExplorer
+
+What added features does this have?
+idk you tell me https://github.com/originalnicodr/CinematicUnityExplorer?tab=readme-ov-file#features
