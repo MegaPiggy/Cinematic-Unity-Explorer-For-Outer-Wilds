@@ -1,10 +1,11 @@
 {
-  "filename": "CinematicUnityExplorer.dll",
-  "author": "MegaPiggy, Vesper, JohnCorby, Locochoco",
-  "name": "Cinematic Unity Explorer",
-  "uniqueName": "MegaPiggy.CinematicUnityExplorer",
-  "version": "1.0.0",
-  "owmlVersion": "2.5.2",
-  "conflicts": ["Vesper.UnityExplorer"],
-  "pathsToPreserve": ["CinematicUnityExplorer"]
+	"$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+	"filename": "CinematicUnityExplorer.dll",
+	"author": "MegaPiggy, Vesper, JohnCorby, Locochoco",
+	"name": "Cinematic Unity Explorer",
+	"uniqueName": "MegaPiggy.CinematicUnityExplorer",
+	"version": "5.9.0",
+	"owmlVersion": "2.5.2",
+	"conflicts": ["Vesper.UnityExplorer"],
+	"pathsToPreserve": ["CinematicUnityExplorer"]
 }

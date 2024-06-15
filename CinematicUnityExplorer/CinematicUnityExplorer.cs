@@ -24,5 +24,6 @@ namespace CinematicUnityExplorer
                         _ => throw new ArgumentOutOfRangeException(nameof(type), type, null)
                     })
             );
+        }
     }
 }
