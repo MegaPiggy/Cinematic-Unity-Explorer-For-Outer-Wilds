@@ -24,9 +24,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="UnityExplorer.csproj.user" />
+    <Content Include="CinematicUnityExplorer.csproj.user" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="UnityExplorer.STANDALONE.Mono.dll" />
+    <Reference Include="CinematicUnityExplorer.STANDALONE.Mono.dll" />
+    <Reference Include="UniverseLib.Mono.dll" />
   </ItemGroup>
 </Project>

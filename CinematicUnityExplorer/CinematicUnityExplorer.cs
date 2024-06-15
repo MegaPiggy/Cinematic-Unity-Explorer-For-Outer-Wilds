@@ -2,12 +2,16 @@
 using OWML.ModHelper;
 using System;
 using UnityEngine;
+using UnityExplorer;
 
-namespace UnityExplorer
+namespace CinematicUnityExplorer
 {
-    public class UnityExplorer : ModBehaviour
+    public class CinematicUnityExplorer : ModBehaviour
     {
-        private void Start() =>
+        public static CinematicUnityExplorer Instance { get; private set; }
+        private void Start()
+        {
+            Instance = this;
             ExplorerStandalone.CreateInstance(
                 (message, type) =>
                     ModHelper.Console.WriteLine(message, type switch
