@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UnityExplorer.GizmoControls
+namespace CinematicUnityExplorer.GizmoControls
 {
     public abstract class BaseControl<T>
     {

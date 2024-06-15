@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace UnityExplorer.GLDrawHelpers
+namespace CinematicUnityExplorer.GLDrawHelpers
 {
     public static class GLHelper
     {

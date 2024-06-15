@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
-using UnityExplorer.GLDrawHelpers;
+using CinematicUnityExplorer.GLDrawHelpers;
 
-namespace UnityExplorer.TransformGizmos
+namespace CinematicUnityExplorer.TransformGizmos
 {
     //TODO recreate this with GizmoControls and fix bug when radius = 0 -> position = NaN
     public class LocalPositionCylindricalCoordinates : BaseTransformGizmo

@@ -1,8 +1,8 @@
 ﻿using System;
 using UnityEngine;
-using UnityExplorer.GLDrawHelpers;
+using CinematicUnityExplorer.GLDrawHelpers;
 
-namespace UnityExplorer.GizmoControls
+namespace CinematicUnityExplorer.GizmoControls
 {
     public class CircleControl : BaseControl<float>
     {

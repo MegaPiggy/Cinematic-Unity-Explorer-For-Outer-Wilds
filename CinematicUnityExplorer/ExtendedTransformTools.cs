@@ -1,11 +1,12 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-using UnityExplorer.GLDrawHelpers;
+using UnityExplorer;
 using UnityExplorer.Inspectors;
-using UnityExplorer.TransformGizmos;
+using CinematicUnityExplorer.GLDrawHelpers;
+using CinematicUnityExplorer.TransformGizmos;
 
-namespace UnityExplorer
+namespace CinematicUnityExplorer
 {
     public class ExtendedTransformTools : MonoBehaviour
     {

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
-using UnityExplorer.GizmoControls;
+using CinematicUnityExplorer.GizmoControls;
 
-namespace UnityExplorer.TransformGizmos
+namespace CinematicUnityExplorer.TransformGizmos
 {
     internal class LocalEulerAngleGizmo : BaseTransformGizmo
     {

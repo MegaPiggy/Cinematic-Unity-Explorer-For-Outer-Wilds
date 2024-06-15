@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
-using UnityExplorer.GLDrawHelpers;
-namespace UnityExplorer.GizmoControls
+using CinematicUnityExplorer.GLDrawHelpers;
+namespace CinematicUnityExplorer.GizmoControls
 {
     internal class ArrowControl : BaseControl<Vector3>
     {

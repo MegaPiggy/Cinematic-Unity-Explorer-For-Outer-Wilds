@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UnityExplorer.TransformGizmos
+namespace CinematicUnityExplorer.TransformGizmos
 {
     public class TransformOrientationGizmo : BaseInteractablePositionGizmo
     {

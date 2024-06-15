@@ -1,0 +1,10 @@
+{
+  "filename": "CinematicUnityExplorer.dll",
+  "author": "MegaPiggy, Vesper, JohnCorby, Locochoco",
+  "name": "Cinematic Unity Explorer",
+  "uniqueName": "MegaPiggy.CinematicUnityExplorer",
+  "version": "1.0.0",
+  "owmlVersion": "2.5.2",
+  "conflicts": ["Vesper.UnityExplorer"],
+  "pathsToPreserve": ["CinematicUnityExplorer"]
+}

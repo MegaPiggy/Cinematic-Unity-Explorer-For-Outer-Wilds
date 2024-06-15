@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UnityExplorer
+namespace CinematicUnityExplorer
 {
     public static class Vector3MathUtils
     {

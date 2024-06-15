@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
-using UnityExplorer.GLDrawHelpers;
+using CinematicUnityExplorer.GLDrawHelpers;
 
-namespace UnityExplorer.TransformGizmos
+namespace CinematicUnityExplorer.TransformGizmos
 {
     public class GlobalEulerAnglesGizmo : BaseTransformGizmo
     {

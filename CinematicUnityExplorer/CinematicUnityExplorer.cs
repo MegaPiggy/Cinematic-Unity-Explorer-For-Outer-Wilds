@@ -2,12 +2,13 @@
 using OWML.ModHelper;
 using System;
 using UnityEngine;
+using UnityExplorer;
 
-namespace UnityExplorer
+namespace CinematicUnityExplorer
 {
-    public class UnityExplorer : ModBehaviour
+    public class CinematicUnityExplorer : ModBehaviour
     {
-        public static UnityExplorer Instance { get; private set; }
+        public static CinematicUnityExplorer Instance { get; private set; }
         private void Start()
         {
             Instance = this;
